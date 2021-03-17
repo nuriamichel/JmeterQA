@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1616022972796,1266,Get Project,200,OK,Thread Group 1-1,text,true,,28378,180,1,1,https://todo.ly/api/projects.json,1081,0,634
+1616022974063,208,Crear Project,200,OK,Thread Group 1-1,text,true,,797,270,1,1,https://todo.ly/api/projects.json,208,0,0
+1616022974272,192,Actualizar Project,200,OK,Thread Group 1-1,text,true,,801,281,1,1,https://todo.ly/api/projects/3898873.json,192,0,0
+1616022974465,198,Delete Project,200,OK,Thread Group 1-1,text,true,,800,274,1,1,https://todo.ly/api/projects/3898873.json,198,0,0
+1616022974664,446,Get Project,200,OK,Thread Group 1-1,text,true,,28378,180,1,1,https://todo.ly/api/projects.json,262,0,0
+1616022975111,205,Crear Project,200,OK,Thread Group 1-1,text,true,,797,270,1,1,https://todo.ly/api/projects.json,205,0,0
+1616022975317,206,Actualizar Project,200,OK,Thread Group 1-1,text,true,,801,281,1,1,https://todo.ly/api/projects/3898874.json,206,0,0
+1616022975524,198,Delete Project,200,OK,Thread Group 1-1,text,true,,800,274,1,1,https://todo.ly/api/projects/3898874.json,198,0,0
+1616022975723,264,Get Project,200,OK,Thread Group 1-1,text,true,,28378,180,1,1,https://todo.ly/api/projects.json,263,0,0
+1616022975987,200,Crear Project,200,OK,Thread Group 1-1,text,true,,797,270,1,1,https://todo.ly/api/projects.json,200,0,0
+1616022976189,204,Actualizar Project,200,OK,Thread Group 1-1,text,true,,801,281,1,1,https://todo.ly/api/projects/3898875.json,204,0,0
+1616022976394,203,Delete Project,200,OK,Thread Group 1-1,text,true,,800,274,1,1,https://todo.ly/api/projects/3898875.json,203,0,0

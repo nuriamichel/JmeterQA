@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1616022755217,777,Get Item,200,OK,Thread Group 1-1,text,true,,6018,185,1,1,https://todo.ly/api/items.json,777,0,585
+1616022755994,193,Crear Item,200,OK,Thread Group 1-1,text,true,,928,259,1,1,https://todo.ly/api/items.json,193,0,0
+1616022756188,200,Actualizar Item,200,OK,Thread Group 1-1,text,true,,932,271,1,1,https://todo.ly/api/items/10848754.json,200,0,0
+1616022756389,191,Delete Item,200,OK,Thread Group 1-1,text,true,,931,280,1,1,https://todo.ly/api/items/10848754.json,191,0,0
+1616022756580,193,Get Item,200,OK,Thread Group 1-1,text,true,,6018,185,1,1,https://todo.ly/api/items.json,193,0,0
+1616022756773,195,Crear Item,200,OK,Thread Group 1-1,text,true,,928,259,1,1,https://todo.ly/api/items.json,195,0,0
+1616022756969,201,Actualizar Item,200,OK,Thread Group 1-1,text,true,,932,271,1,1,https://todo.ly/api/items/10848755.json,201,0,0
+1616022757171,203,Delete Item,200,OK,Thread Group 1-1,text,true,,931,280,1,1,https://todo.ly/api/items/10848755.json,203,0,0
+1616022757374,191,Get Item,200,OK,Thread Group 1-1,text,true,,6018,185,1,1,https://todo.ly/api/items.json,191,0,0
+1616022757566,196,Crear Item,200,OK,Thread Group 1-1,text,true,,928,259,1,1,https://todo.ly/api/items.json,196,0,0
+1616022757763,201,Actualizar Item,200,OK,Thread Group 1-1,text,true,,932,271,1,1,https://todo.ly/api/items/10848756.json,201,0,0
+1616022757965,214,Delete Item,200,OK,Thread Group 1-1,text,true,,931,280,1,1,https://todo.ly/api/items/10848756.json,214,0,0
